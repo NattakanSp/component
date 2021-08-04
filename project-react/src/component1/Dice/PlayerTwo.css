@@ -1,0 +1,19 @@
+.SetPlayer2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  top: 70px;
+  right: 20px;
+  align-items: center;
+  background-color: white;
+  width: 30%;
+  height: 200px;
+}
+.scorePlayer2 {
+  font-size: 30px;
+  color: black;
+}
+.textPlayer2 {
+  color: black;
+}

@@ -1,0 +1,12 @@
+.buttonSet1 {
+  margin: 10px 10px;
+  width: 30px;
+  height: 40px;
+  /* display: flex; */
+  justify-content: space-evenly;
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
+  background-color: red;
+  color: white;
+}

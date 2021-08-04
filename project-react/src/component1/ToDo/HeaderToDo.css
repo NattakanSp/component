@@ -1,0 +1,44 @@
+.All {
+  width: 100%;
+  height: 803px;
+  background-color: rgb(219, 224, 226);
+}
+.HeaderBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(39, 39, 39);
+}
+.TopLeft {
+  margin-left: 10px;
+  color: rgb(16, 124, 143);
+}
+.TopRight {
+  margin-right: 10px;
+}
+.inputSearch {
+  margin-right: 5px;
+  border-radius: 3px;
+  text-decoration: none;
+  border: none;
+  height: 30px;
+}
+.Search {
+  margin-right: 5px;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px solid rgb(16, 124, 143);
+  height: 30px;
+  background-color: transparent;
+  color: rgb(16, 124, 143);
+}
+.Add {
+  width: 50px;
+  margin-right: 5px;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px solid rgb(16, 124, 143);
+  height: 30px;
+  background-color: transparent;
+  color: rgb(16, 124, 143);
+}

@@ -1,0 +1,43 @@
+.SetGameScore {
+  position: absolute;
+  top: 70px;
+  left: 35%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 30%;
+  height: 200px;
+}
+.Roll {
+  background-color: rgba(247, 39, 39, 0.808);
+  text-decoration: none;
+  border: none;
+  margin-right: 5px;
+  color: white;
+  width: 50px;
+}
+.Keep {
+  background-color: rgba(10, 133, 40, 0.856);
+  text-decoration: none;
+  border: none;
+  margin-left: 5px;
+  color: white;
+  width: 50px;
+}
+.ScoreCount {
+  width: 50px;
+  height: 50px;
+  background-color: grey;
+  position: relative;
+  top: 10px;
+}
+.ScoreCount1 {
+  font-size: 20px;
+  font-weight: normal;
+  position: absolute;
+  bottom: 0px;
+  left: 20px;
+  color: white;
+}
